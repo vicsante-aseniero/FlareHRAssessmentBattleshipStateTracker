@@ -1,0 +1,2 @@
+# FlareHRAssessmentBattleshipStateTracker
+Developer Candidate Home Exercise Battleship State Tracker
